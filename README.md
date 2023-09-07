@@ -1,1 +1,2 @@
-# Auto_Clicker
+# Auto Clicker
+Crappy autoclicker I created.
